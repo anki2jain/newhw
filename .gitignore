@@ -4,5 +4,6 @@
 void  main()
 {
 cout<<"hello world ";
+cout<<"hacktoberfest is live";
 getch()
 }
